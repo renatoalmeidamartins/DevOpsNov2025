@@ -52,3 +52,7 @@
 - Code build
     - [Build spec file reference](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html)
     - [Runtimes available in the default images provided by CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/available-runtimes.html)
+    - [Using GitHub self-hosted runners to run on code build containers](https://docs.aws.amazon.com/en_us/codebuild/latest/userguide/action-runner-overview.html)
+    - [Jenkins plugin for CodeBuild on Jenkins doc](https://plugins.jenkins.io/aws-codebuild/)
+    - [Codebuild with jenkins on AWS doc](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
+    - [Jenkins EC2 plugin](https://plugins.jenkins.io/ec2/)
