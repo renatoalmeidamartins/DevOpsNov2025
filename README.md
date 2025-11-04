@@ -49,3 +49,6 @@
    - [Forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
    - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [Git hooks - server and client side](https://git-scm.com/book/ms/v2/Customizing-Git-Git-Hooks)
+- Code build
+    - [Build spec file reference](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html)
+    - [Runtimes available in the default images provided by CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/available-runtimes.html)
