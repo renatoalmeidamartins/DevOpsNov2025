@@ -40,4 +40,4 @@
     - [Serverless application model - SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
     - [AWS CLI installation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
     - [PowerShell for AWS](https://github.com/aws/aws-tools-for-powershell)
-    - CLI help on the web always follows the pattern https://docs.aws.amazon.com/cli/latest/reference/<service_name>/
+    - CLI help on the web always follows the pattern ```https://docs.aws.amazon.com/cli/latest/reference/<service_name>/```
