@@ -14,3 +14,4 @@
 - [The unicorn project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762)
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [DORA Reaseach - the state of devops report](https://dora.dev/research/2024/dora-report/)
+- [The Goal - 40th anniversary edition: a process of ongoing improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951)
