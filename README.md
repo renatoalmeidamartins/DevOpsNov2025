@@ -24,3 +24,7 @@
     - [Resources that can be created](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-template-resource-type-ref.html)
     - [Repo with CF sample templates](https://github.com/aws-cloudformation/aws-cloudformation-templates)
     - [Nested stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-cloudformation-stack.html)
+    - [Stack sets, way to deploy stacks across accounts and regions](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/what-is-cfnstacksets.html)
+    - [Creating custom resources](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-cloudformation-customresource.html)
+    - [Taskcat, can test CF stacks across regions](https://github.com/aws-ia/taskcat)
+    - [cfn-linter](https://github.com/aws-cloudformation/cfn-lint)
