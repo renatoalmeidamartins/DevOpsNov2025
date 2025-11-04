@@ -42,4 +42,9 @@
     - [PowerShell for AWS](https://github.com/aws/aws-tools-for-powershell)
     - CLI help on the web always follows the pattern ```https://docs.aws.amazon.com/cli/latest/reference/<service_name>/```
     - [The CLI supports more settings in the config file than only profiles, look at service-specific and global settings](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-files.html#cli-configure-files-settings)
-  - [Stop starting, start finishing book](https://www.amazon.com/Stop-Starting-Start-Finishing-Roock/dp/0985305169)
+- [Stop starting, start finishing book](https://www.amazon.com/Stop-Starting-Start-Finishing-Roock/dp/0985305169)
+- Git workflows (not to confuse with GitHub workflows, aka github pipelines):
+    - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
+    - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+    - [Forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+    - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
