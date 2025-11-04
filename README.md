@@ -41,3 +41,4 @@
     - [AWS CLI installation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
     - [PowerShell for AWS](https://github.com/aws/aws-tools-for-powershell)
     - CLI help on the web always follows the pattern ```https://docs.aws.amazon.com/cli/latest/reference/<service_name>/```
+    - [The CLI supports more settings in the config file than only profiles, look at service-specific and global settings](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-files.html#cli-configure-files-settings)
