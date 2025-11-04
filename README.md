@@ -19,3 +19,8 @@
 - [SRE books](https://sre.google/books/)
 - [CodeCommit - AWS fully-managed git environment, is now gone](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
 - [Strangler Fig pattern](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- Cloudformation
+    - [CreationPolicy attribute](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-attribute-creationpolicy.html)
+    - [Resources that can be created](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-template-resource-type-ref.html)
+    - [Repo with CF sample templates](https://github.com/aws-cloudformation/aws-cloudformation-templates)
+    - [Nested stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-cloudformation-stack.html)
