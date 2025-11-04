@@ -18,3 +18,4 @@
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [SRE books](https://sre.google/books/)
 - [CodeCommit - AWS fully-managed git environment, is now gone](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
+- [Strangler Fig pattern](https://martinfowler.com/bliki/StranglerFigApplication.html)
