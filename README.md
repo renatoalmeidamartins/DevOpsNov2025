@@ -7,3 +7,4 @@
 - [Day 1 meeting link](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m880b0c1c72e34ccca8368c4afc7bd39b)
 
 ## Day 1 content links
+- [EPAC on Azure - enterprise policy as code](https://azure.github.io/enterprise-azure-policy-as-code/)
