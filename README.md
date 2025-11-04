@@ -8,3 +8,9 @@
 
 ## Day 1 content links
 - [EPAC on Azure - enterprise policy as code](https://azure.github.io/enterprise-azure-policy-as-code/)
+- [10+ deploys per day at Flicker - pretty much coined the term DevOps](https://www.youtube.com/watch?v=LdOe18KhtT4&t=12s)
+- [DevOps handbook](https://www.amazon.com/dp/B09L56CT6N)
+- [The phoenix project](https://www.amazon.com/Phoenix-Project-bestselling-author-Unicorn/dp/1950508943)
+- [The unicorn project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [DORA Reaseach - the state of devops report](https://dora.dev/research/2024/dora-report/)
