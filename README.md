@@ -30,3 +30,9 @@
     - [cfn-linter](https://github.com/aws-cloudformation/cfn-lint)
     - [CloudFormation helper scripts](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/cfn-helper-scripts-reference.html)
     - [DeletionPolicy attribute](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-attribute-deletionpolicy.html)
+- Tools
+    - [Python SDK - boto3 doc](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+    - [boto3 repo](https://github.com/boto/boto3?tab=readme-ov-file)
+    - [Invenotry of most developer tools](https://builder.aws.com/build/tools?trk=80015f61-c9e0-4802-80bc-3d91cb4c8533&sc_channel=el)
+    -  
+    - 
