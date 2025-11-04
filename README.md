@@ -38,3 +38,6 @@
     - [CDK Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/en-US)
     - [cdk basics](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
     - [Serverless application model - SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
+    - [AWS CLI installation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+    - [PowerShell for AWS](https://github.com/aws/aws-tools-for-powershell)
+    - CLI help on the web always follows the pattern https://docs.aws.amazon.com/cli/latest/reference/<service_name>/
