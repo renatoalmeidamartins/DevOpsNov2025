@@ -28,3 +28,4 @@
     - [Creating custom resources](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-cloudformation-customresource.html)
     - [Taskcat, can test CF stacks across regions](https://github.com/aws-ia/taskcat)
     - [cfn-linter](https://github.com/aws-cloudformation/cfn-lint)
+    - [CloudFormation helper scripts](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/cfn-helper-scripts-reference.html)
