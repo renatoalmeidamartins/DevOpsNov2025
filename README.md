@@ -17,3 +17,4 @@
 - [The Goal - 40th anniversary edition: a process of ongoing improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951)
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [SRE books](https://sre.google/books/)
+- [CodeCommit - AWS fully-managed git environment, is now gone](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
