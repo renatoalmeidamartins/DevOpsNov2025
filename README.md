@@ -56,3 +56,7 @@
     - [Jenkins plugin for CodeBuild on Jenkins doc](https://plugins.jenkins.io/aws-codebuild/)
     - [Codebuild with jenkins on AWS doc](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
     - [Jenkins EC2 plugin](https://plugins.jenkins.io/ec2/)
+- Code deploy
+    - [Lifecycle hooks](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
+    - [Code deploy agent](https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent.html)
+    - [appspec files section](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-files.html)
