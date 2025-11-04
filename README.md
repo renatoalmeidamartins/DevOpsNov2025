@@ -34,5 +34,7 @@
     - [Python SDK - boto3 doc](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
     - [boto3 repo](https://github.com/boto/boto3?tab=readme-ov-file)
     - [Invenotry of most developer tools](https://builder.aws.com/build/tools?trk=80015f61-c9e0-4802-80bc-3d91cb4c8533&sc_channel=el)
-    -  
-    - 
+    - [cdk construct library](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html) 
+    - [CDK Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/en-US)
+    - [cdk basics](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+    - [Serverless application model - SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
