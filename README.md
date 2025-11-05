@@ -67,3 +67,8 @@
 - [CodeBuild project including a scan of the generated container image with Clair](https://aws.amazon.com/blogs/compute/scanning-docker-images-for-vulnerabilities-using-clair-amazon-ecs-ecr-aws-codepipeline/)
 - [Scanning images is now automatic feature on ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
 - [Code Pipeline commands - no need for CodeBuild for generic shell commands](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
+- [PutJobSuccessResult - When a Lambda function is invoked in a pipeline, that's how it reports successful completion of its "work"](https://docs.aws.amazon.com/codepipeline/latest/APIReference/API_PutJobSuccessResult.html)
+- [Monorepo vs multirepo discussion on Thoughtworks](https://www.thoughtworks.com/en-us/insights/blog/agile-engineering-practices/monorepo-vs-multirepo)
+- [Creating cross-account roles for pipelines](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-create-cross-account.html)
+- [Code pipeline plugin to be used in Jenkins](https://plugins.jenkins.io/aws-codepipeline/)
+- [OpsWOrks reached end of like in 2024](https://repost.aws/questions/QUmHQN4HGoQxav6nqlH-ZJIg/is-aws-ops-works-is-reaching-end-of-life)
