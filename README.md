@@ -78,3 +78,15 @@
 - [Hamilton's my shot parody - serverless, reduce your ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
 - [SAM quick start templates repo](https://github.com/aws/aws-sam-cli-app-templates)
 - [Lambda retry behaviour](https://docs.aws.amazon.com/lambda/latest/dg/invocation-retries.html)
+- [Lambda function URLs](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- [CNCF landscape, relevant projects in multiple categories endorsed by the cloud native computing foundation](https://landscape.cncf.io/)
+- Containers
+    - [Dockerfile reference](https://docs.docker.com/reference/dockerfile/)
+    - [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/)
+    - [DOcker hub announced quotas in the end of 2020](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
+    - [Amazon ECR public gallery](https://gallery.ecr.aws/)
+    - [Login to ECR](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-login-password.html)
+    - [Update kubeconfig to talk to an EKS cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)
+    - [EKSCTL - eks CLI](https://docs.aws.amazon.com/eks/latest/eksctl/what-is-eksctl.html)
+    - [Launch announcement for eksctl](https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/)
+    - 
