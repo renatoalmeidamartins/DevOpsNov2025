@@ -72,3 +72,4 @@
 - [Creating cross-account roles for pipelines](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-create-cross-account.html)
 - [Code pipeline plugin to be used in Jenkins](https://plugins.jenkins.io/aws-codepipeline/)
 - [OpsWOrks reached end of like in 2024](https://repost.aws/questions/QUmHQN4HGoQxav6nqlH-ZJIg/is-aws-ops-works-is-reaching-end-of-life)
+- [12 factor app, really good as a pattern for micro-services](https://12factor.net/)
