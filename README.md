@@ -33,7 +33,7 @@
 - Tools
     - [Python SDK - boto3 doc](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
     - [boto3 repo](https://github.com/boto/boto3?tab=readme-ov-file)
-    - [Invenotry of most developer tools](https://builder.aws.com/build/tools?trk=80015f61-c9e0-4802-80bc-3d91cb4c8533&sc_channel=el)
+    - [Inventory of most developer tools](https://builder.aws.com/build/tools?trk=80015f61-c9e0-4802-80bc-3d91cb4c8533&sc_channel=el)
     - [cdk construct library](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html) 
     - [CDK Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/en-US)
     - [cdk basics](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
@@ -60,3 +60,8 @@
     - [Lifecycle hooks](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
     - [Code deploy agent](https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent.html)
     - [appspec files section](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-files.html)
+## Day 2 links
+- [Tutorial for breaking down monoliths into microservices](https://github.com/awslabs/amazon-ecs-nodejs-microservices)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- [CodeBuild project including a scan of the generated container image with Clair](https://aws.amazon.com/blogs/compute/scanning-docker-images-for-vulnerabilities-using-clair-amazon-ecs-ecr-aws-codepipeline/)
+- [Scanning images is now automatic feature on ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
