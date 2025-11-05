@@ -53,6 +53,7 @@
     - [Build spec file reference](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html)
     - [Runtimes available in the default images provided by CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/available-runtimes.html)
     - [Using GitHub self-hosted runners to run on code build containers](https://docs.aws.amazon.com/en_us/codebuild/latest/userguide/action-runner-overview.html)
+    - [Blog announcing the support of hosted runners in code build](https://aws.amazon.com/blogs/devops/aws-codebuild-managed-self-hosted-github-action-runners/)
     - [Jenkins plugin for CodeBuild on Jenkins doc](https://plugins.jenkins.io/aws-codebuild/)
     - [Codebuild with jenkins on AWS doc](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
     - [Jenkins EC2 plugin](https://plugins.jenkins.io/ec2/)
@@ -65,3 +66,4 @@
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 - [CodeBuild project including a scan of the generated container image with Clair](https://aws.amazon.com/blogs/compute/scanning-docker-images-for-vulnerabilities-using-clair-amazon-ecs-ecr-aws-codepipeline/)
 - [Scanning images is now automatic feature on ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
+- [Code Pipeline commands - no need for CodeBuild for generic shell commands](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
