@@ -75,4 +75,4 @@
 - [12 factor app, really good as a pattern for micro-services](https://12factor.net/)
 - [Monolithic vs microservices architecture](https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/)
 - [Trip down memory lane - UDDI, a way to discover services, in the WS-I days](https://en.wikipedia.org/wiki/Web_Services_Discovery)
-- 
+- [Hamilton's my shot parody - serverless, reduce your ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
