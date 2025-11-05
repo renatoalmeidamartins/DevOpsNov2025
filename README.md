@@ -77,3 +77,4 @@
 - [Trip down memory lane - UDDI, a way to discover services, in the WS-I days](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 - [Hamilton's my shot parody - serverless, reduce your ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
 - [SAM quick start templates repo](https://github.com/aws/aws-sam-cli-app-templates)
+- [Lambda retry behaviour](https://docs.aws.amazon.com/lambda/latest/dg/invocation-retries.html)
