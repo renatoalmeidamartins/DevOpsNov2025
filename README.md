@@ -6,6 +6,17 @@
     - One-time email passcode<br>
 - [Day 1 meeting link](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m880b0c1c72e34ccca8368c4afc7bd39b)
 
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
+## Contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
+
 ## Day 1 content links
 - [EPAC on Azure - enterprise policy as code](https://azure.github.io/enterprise-azure-policy-as-code/)
 - [10+ deploys per day at Flicker - pretty much coined the term DevOps](https://www.youtube.com/watch?v=LdOe18KhtT4&t=12s)
