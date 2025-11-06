@@ -89,4 +89,5 @@
     - [Update kubeconfig to talk to an EKS cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)
     - [EKSCTL - eks CLI](https://docs.aws.amazon.com/eks/latest/eksctl/what-is-eksctl.html)
     - [Launch announcement for eksctl](https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/)
-    - 
+## Day 3 links
+- [EventBridge partner sources](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
