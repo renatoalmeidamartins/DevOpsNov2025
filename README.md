@@ -95,3 +95,5 @@
 - [Lambda best practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 - [Route 53 routing policies, useful for blue-green deployments](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [Health checks on ecs, similar to probes on k8s](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/healthcheck.html)
+- [Netflix simian army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
+- [Fault Injection simulator announcement](https://aws.amazon.com/blogs/aws/aws-fault-injection-simulator-use-controlled-experiments-to-boost-resilience/) 
