@@ -109,3 +109,4 @@
 - [Cloudformation guard, "policy language" for cloudformation templates](https://github.com/aws-cloudformation/cloudformation-guard)
 - [Repo with aws config rules](https://github.com/awslabs/aws-config-rules)
 - [List of available actions for system manager documents](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
+- [X-Ray deprecation, OpenTelemetry - OTel or CloudWatch should be used instead](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
