@@ -107,4 +107,5 @@
 - [Control tower documentation ](https://docs.aws.amazon.com/controltower/latest/controlreference/introduction.html)
 - [Moving from Packer to image builder ](https://aws.amazon.com/blogs/mt/migrating-from-hashicorp-packer-to-ec2-image-builder/)
 - [Cloudformation guard, "policy language" for cloudformation templates](https://github.com/aws-cloudformation/cloudformation-guard)
-- 
+- [Repo with aws config rules](https://github.com/awslabs/aws-config-rules)
+- [List of available actions for system manager documents](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
