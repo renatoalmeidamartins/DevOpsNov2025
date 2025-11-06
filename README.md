@@ -102,3 +102,9 @@
 - [Automated serverless UI testing](https://aws.amazon.com/blogs/devops/serverless-ui-testing-using-selenium-aws-lambda-aws-fargate-and-aws-developer-tools/)
 - [Github repo for automated cloudformation testing](https://github.com/aws-samples/aws-cloudformation-automated-testing-taskcat-aws-codepipeline)
 - [Deployment guide for a cloudformation testing solution](https://aws-ia.github.io/cfn-ps-taskcat-ci/)
+- [Strategies for multiple accounts](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
+- [Example of control tower implementation](https://aws.amazon.com/blogs/mt/infosys-implements-aws-control-tower-to-enforce-multi-account-governance/)
+- [Control tower documentation ](https://docs.aws.amazon.com/controltower/latest/controlreference/introduction.html)
+- [Moving from Packer to image builder ](https://aws.amazon.com/blogs/mt/migrating-from-hashicorp-packer-to-ec2-image-builder/)
+- [Cloudformation guard, "policy language" for cloudformation templates](https://github.com/aws-cloudformation/cloudformation-guard)
+- 
