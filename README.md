@@ -91,3 +91,7 @@
     - [Launch announcement for eksctl](https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/)
 ## Day 3 links
 - [EventBridge partner sources](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
+- [SnapStart, a way to avoid cold starts with Lambda, became available for .Net and python - was avaialble for Java since 2022](https://aws.amazon.com/blogs/aws/aws-lambda-snapstart-for-python-and-net-functions-is-now-generally-available/)
+- [Lambda best practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+- [Route 53 routing policies, useful for blue-green deployments](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
+- [Health checks on ecs, similar to probes on k8s](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/healthcheck.html)
